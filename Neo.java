@@ -69,15 +69,11 @@ class Tokenreader
 		{
 			System.out.println("Hey congrates student 1 you won free coupon for Blockchain bootcamp");
 			
-			if (numfromiNeuron == numfromstuden2) {
-				
-				System.out.println("congo 1 is  winner");
-				if (numfromiNeuron == numfromstuden3) {
-					System.out.println("congo  3 are winner ");
-					
-	
-			}
 			
+		}
+		else if (numfromiNeuron == numfromstuden2)
+		{
+			System.out.println("Hey congo student 2 you won free coupon for web development Boot camp");
 		}
 		
 		
@@ -109,6 +105,6 @@ public class Neo {
 	}
 
 }
-}
+
 
 
